@@ -13,7 +13,7 @@
 </div>
 
 <h2 style="display: flex; align-items: center; gap: 8px; ">
-  <img src="./icons/user-round.svg" style="height: 1em;" alt="Code Icon" />
+  <img src="./icons/user-round.svg" style="height: 1.5em;" alt="Code Icon" />
   About Me
 </h2>
 
@@ -25,7 +25,7 @@ I'm a backend developer from Mexico City with experience in data engineering, da
 * My favorite database is PostgreSQL
 
 <h3>
-  <img src="./icons/mail.svg" style="height: 1em;" alt="Code Icon" />
+  <img src="./icons/mail.svg" style="height: 1.5em;" alt="Code Icon" />
   Contact
 </h3>
 
@@ -34,7 +34,7 @@ pablorojas.job@gmail.com
 <br>
 
 <h2>
-  <img src="./icons/tech-stack/blocks.svg" style="height: 1em;" alt="Code Icon" />
+  <img src="./icons/tech-stack/blocks.svg" style="height: 1.5em;" alt="Code Icon" />
   Tech Stack
 </h2>
 
@@ -45,7 +45,7 @@ pablorojas.job@gmail.com
 <td valign="top" width="50%">
 
 <h3>
-  <img src="./icons/tech-stack/code.svg" style="height: 1em;" alt="Code Icon" />
+  <img src="./icons/tech-stack/code.svg" style="height: 1.5em;" alt="Code Icon" />
   Languages
 </h3>
 
@@ -56,7 +56,7 @@ pablorojas.job@gmail.com
 <td valign="top" width="50%">
 
 <h3>
-  <img src="./icons/tech-stack/folder-cog.svg" style="height: 1em;" alt="Code Icon" />
+  <img src="./icons/tech-stack/folder-cog.svg" style="height: 1.5em;" alt="Code Icon" />
   Backend
 </h3>
 
@@ -71,7 +71,7 @@ pablorojas.job@gmail.com
 <td valign="top" width="50%">
 
 <h3>
-  <img src="./icons/tech-stack/layout-panel-top.svg" style="height: 1em;" alt="Code Icon" />
+  <img src="./icons/tech-stack/layout-panel-top.svg" style="height: 1.5em;" alt="Code Icon" />
   Frontend
 </h3>
 
@@ -82,7 +82,7 @@ pablorojas.job@gmail.com
 <td valign="top" width="50%">
 
 <h3>
-  <img src="./icons/tech-stack/database.svg" style="height: 1em;" alt="Code Icon" />
+  <img src="./icons/tech-stack/database.svg" style="height: 1.5em;" alt="Code Icon" />
   Databases
 </h3>
 
@@ -97,7 +97,7 @@ pablorojas.job@gmail.com
 <td valign="top" width="50%">
 
 <h3>
-  <img src="./icons/tech-stack/pencil-ruler.svg" style="height: 1em;" alt="Code Icon" />
+  <img src="./icons/tech-stack/pencil-ruler.svg" style="height: 1.5em;" alt="Code Icon" />
   Tools
 </h3>
 
@@ -108,7 +108,7 @@ pablorojas.job@gmail.com
 <td valign="top" width="50%">
 
   <h3>
-    <img src="./icons/tech-stack/cloud.svg" style="height: 1em;" alt="Code Icon" />
+    <img src="./icons/tech-stack/cloud.svg" style="height: 1.5em;" alt="Code Icon" />
     Cloud
   </h3>
 
@@ -123,7 +123,7 @@ pablorojas.job@gmail.com
 <br> 
 
 <h2>
-  <img src="./icons/pen-tool.svg" style="height: 1em;" alt="Code Icon" />
+  <img src="./icons/pen-tool.svg" style="height: 1.5em;" alt="Code Icon" />
    Philosophy
 </h2>
 It's all about freedom, and software development makes me feel free.

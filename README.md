@@ -1,33 +1,19 @@
-<div style="font-family: 'Oxanium', sans-serif;">
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-<link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
 <img src="./img/world-banner.png" alt="Pablo Rojas | Backend Developer" />
 
 <br>
 
 <div align="center">
 
-  <a href="https://pablo-rojas-dev.github.io/my-web/" target="_blank" style="background-color:#9ae600; padding:8px 14px; border-radius:8px; text-decoration:none; color:#000; font-weight:600; display:inline-flex; vertical-align:middle; align-items:center; gap:6px; margin-right:8px;">
-    <img src="./icons/buttons/globe.svg" width="18" alt="Web" />
-    <span>My Web</span>
-  </a> <a href="https://www.linkedin.com/in/pablo-rojas-dev" target="_blank" style="background-color:#9ae600; padding:8px 14px; border-radius:8px; text-decoration:none; color:#000; font-weight:600; display:inline-flex; vertical-align:middle; align-items:center; gap:6px; margin-right:8px;">
-    <img src="./icons/buttons/linkedin.svg" width="18" alt="LinkedIn" />
-    <span>LinkedIn</span>
-  </a> <div style="background-color:#9ae600; padding:8px 14px; border-radius:8px; text-decoration:none; color:#000; font-weight:600; display:inline-flex; vertical-align:middle; align-items:center; gap:6px;">
-    <img src="./icons/buttons/mail.svg" width="18" alt="Mail" />
-    <span>pablorojas.job@gmail.com</span>
-  </div>
+  <a href="https://pablo-rojas-dev.github.io/my-web/" target="_blank">
+    <img src="https://img.shields.io/badge/My Web-9AE600?style=for-the-badge&logoColor=000000" alt="My Web"/>
+  </a> <a href="https://www.linkedin.com/in/pablo-rojas-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-9AE600?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
+  </a>
 
 </div>
 
-<br>
-
 <h2 style="display: flex; align-items: center; gap: 8px; ">
-  <img src="./icons/user-round.svg" style="height: 1em; background-color:#9ae600; padding:8px 14px; border-radius:8px; text-decoration:none; color:#000; font-weight:600; display:inline-flex; vertical-align:middle; align-items:center; gap:6px; margin-right:8px;" alt="Code Icon" />
+  <img src="./icons/user-round.svg" style="height: 2em;" alt="Code Icon" />
   About Me
 </h2>
 
@@ -38,11 +24,16 @@ I'm a backend developer from Mexico City with experience in data engineering, da
 * My work focuses on automation, especially of [bullshit jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)
 * My favorite database is PostgreSQL
 
+<h3 style="display: flex; align-items: center; gap: 8px;">
+  <img src="./icons/mail.svg" style="height: 2em;" alt="Code Icon" />
+  Contacto
+</h3>
+pablorojas.job@gmail.com
 
 <br>
 
 <h2 style="display: flex; align-items: center; gap: 8px;">
-  <img src="./icons/tech-stack/blocks.svg" style="height: 1em; background-color:#9ae600; padding:8px 14px; border-radius:8px; text-decoration:none; color:#000; font-weight:600; display:inline-flex; vertical-align:middle; align-items:center; gap:6px; margin-right:8px;" alt="Code Icon" />
+  <img src="./icons/tech-stack/blocks.svg" style="height: 2em;" alt="Code Icon" />
   Tech Stack
 </h2>
 
@@ -53,7 +44,7 @@ I'm a backend developer from Mexico City with experience in data engineering, da
 <td valign="top" width="50%">
 
 <h3 style="display: flex; align-items: center; gap: 8px;">
-  <img src="./icons/tech-stack/code.svg" style="height: 1em; background-color:#9ae600; padding:8px 14px; border-radius:8px; text-decoration:none; color:#000; font-weight:600; display:inline-flex; vertical-align:middle; align-items:center; gap:6px; margin-right:8px;" alt="Code Icon" />
+  <img src="./icons/tech-stack/code.svg" style="height: 2em;" alt="Code Icon" />
   Languages
 </h3>
 
@@ -64,7 +55,7 @@ I'm a backend developer from Mexico City with experience in data engineering, da
 <td valign="top" width="50%">
 
 <h3 style="display: flex; align-items: center; gap: 8px;">
-  <img src="./icons/tech-stack/folder-cog.svg" style="height: 1em; background-color:#9ae600; padding:8px 14px; border-radius:8px; text-decoration:none; color:#000; font-weight:600; display:inline-flex; vertical-align:middle; align-items:center; gap:6px; margin-right:8px;" alt="Code Icon" />
+  <img src="./icons/tech-stack/folder-cog.svg" style="height: 2em;" alt="Code Icon" />
   Backend
 </h3>
 
@@ -79,7 +70,7 @@ I'm a backend developer from Mexico City with experience in data engineering, da
 <td valign="top" width="50%">
 
 <h3 style="display: flex; align-items: center; gap: 8px;">
-  <img src="./icons/tech-stack/layout-panel-top.svg" style="height: 1em; background-color:#9ae600; padding:8px 14px; border-radius:8px; text-decoration:none; color:#000; font-weight:600; display:inline-flex; vertical-align:middle; align-items:center; gap:6px; margin-right:8px;" alt="Code Icon" />
+  <img src="./icons/tech-stack/layout-panel-top.svg" style="height: 2em;" alt="Code Icon" />
   Frontend
 </h3>
 
@@ -90,7 +81,7 @@ I'm a backend developer from Mexico City with experience in data engineering, da
 <td valign="top" width="50%">
 
 <h3 style="display: flex; align-items: center; gap: 8px;">
-  <img src="./icons/tech-stack/database.svg" style="height: 1em; background-color:#9ae600; padding:8px 14px; border-radius:8px; text-decoration:none; color:#000; font-weight:600; display:inline-flex; vertical-align:middle; align-items:center; gap:6px; margin-right:8px;" alt="Code Icon" />
+  <img src="./icons/tech-stack/database.svg" style="height: 2em;" alt="Code Icon" />
   Databases
 </h3>
 
@@ -105,7 +96,7 @@ I'm a backend developer from Mexico City with experience in data engineering, da
 <td valign="top" width="50%">
 
 <h3 style="display: flex; align-items: center; gap: 8px;">
-  <img src="./icons/tech-stack/pencil-ruler.svg" style="height: 1em; background-color:#9ae600; padding:8px 14px; border-radius:8px; text-decoration:none; color:#000; font-weight:600; display:inline-flex; vertical-align:middle; align-items:center; gap:6px; margin-right:8px;" alt="Code Icon" />
+  <img src="./icons/tech-stack/pencil-ruler.svg" style="height: 2em;" alt="Code Icon" />
   Tools
 </h3>
 
@@ -116,7 +107,7 @@ I'm a backend developer from Mexico City with experience in data engineering, da
 <td valign="top" width="50%">
 
   <h3 style="display: flex; align-items: center; gap: 8px;">
-    <img src="./icons/tech-stack/cloud.svg" style="height: 1em; background-color:#9ae600; padding:8px 14px; border-radius:8px; text-decoration:none; color:#000; font-weight:600; display:inline-flex; vertical-align:middle; align-items:center; gap:6px; margin-right:8px;" alt="Code Icon" />
+    <img src="./icons/tech-stack/cloud.svg" style="height: 2em;" alt="Code Icon" />
     Cloud
   </h3>
 
@@ -128,8 +119,10 @@ I'm a backend developer from Mexico City with experience in data engineering, da
 
 </table>
 
+<br> 
+
 <h2 style="display: flex; align-items: center; gap: 8px;">
-  <img src="./icons/pen-tool.svg" style="height: 1em; background-color:#9ae600; padding:8px 14px; border-radius:8px; text-decoration:none; color:#000; font-weight:600; display:inline-flex; vertical-align:middle; align-items:center; gap:6px; margin-right:8px;" alt="Code Icon" />
+  <img src="./icons/pen-tool.svg" style="height: 2em;" alt="Code Icon" />
    Philosophy
 </h2>
 It's all about freedom, and software development makes me feel free.

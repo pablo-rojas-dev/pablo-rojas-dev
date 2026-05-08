@@ -26,7 +26,7 @@ I'm a backend developer from Mexico City with experience in data engineering, da
 
 <h3>
   <img src="./icons/mail.svg" style="height: 1em;" alt="Code Icon" />
-  Contacto
+  Contact
 </h3>
 
 pablorojas.job@gmail.com

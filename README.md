@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <a href="https://pablo-rojas-dev.github.io/my-web/" target="_blank">
+  <a href="https://pablo-rojas-dev.github.io" target="_blank">
     <img src="https://img.shields.io/badge/My Web-9AE600?style=for-the-badge&logoColor=000000" alt="My Web"/>
   </a> <a href="https://www.linkedin.com/in/pablo-rojas-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-9AE600?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>

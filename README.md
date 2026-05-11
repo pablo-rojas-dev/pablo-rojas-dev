@@ -1,4 +1,20 @@
-<img src="./img/world-banner.png" alt="Pablo Rojas | Backend Developer" />
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./img/dark-banner.png"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./img/light-banner.png"
+    />
+    <img
+      alt="Banner"
+      src="./img/light-banner.png"
+      width="100%"
+    />
+  </picture>
+</p>
 
 <br>
 

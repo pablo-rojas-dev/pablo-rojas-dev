@@ -33,9 +33,12 @@
   About Me
 </h2>
 
-<p style="text-align: justify;">
-Computer Science undergraduate student nearing graduation, currently developing my thesis with an estimated completion date of August 2027. I have experience in web application development and multidisciplinary technology projects, working with technologies such as React, Express, Spring Boot, PostgreSQL, Astro, and TailwindCSS. I participated in web application development competitions and collaborated as a research intern on projects related to generative artificial intelligence and education, where I worked on configuring custom GPTs and Gemini Gems, as well as curating and processing documents through OCR, metadata structuring, and information indexing. I am seeking opportunities that allow me to gain professional experience while completing my studies.
-</p>
+
+**I’m a** Computer Science student and web developer passionate about building digital experiences that combine technology, creativity, and artificial intelligence.
+
+**I mainly work with** React, Spring Boot, PostgreSQL, Astro, and TailwindCSS. I’m especially interested in the intersection of software development, generative AI, and creativity.
+
+**Currently**, I’m focused on improving my skills through personal projects, research, and multidisciplinary collaboration while completing my undergraduate thesis.
 
 <h3>
   <img src="./icons/mail.svg" style="height: 1.5em;" alt="Code Icon" />

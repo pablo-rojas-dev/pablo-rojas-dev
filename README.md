@@ -33,12 +33,9 @@
   About Me
 </h2>
 
-I'm a backend developer from Mexico City with experience in data engineering, data science, and frontend development. I specialize in web development because it's a medium designed to share what you create; it doesn't ask you to download anything or be in a specific place, it only asks for a browser.
-
-* Currently studying clean architecture, generative AI, and design thinking
-* Interested in database administration and artificial intelligence
-* My work focuses on automation, especially of [bullshit jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)
-* My favorite database is PostgreSQL
+<p style="text-align: justify;">
+Computer Science undergraduate student nearing graduation, currently developing my thesis with an estimated completion date of August 2027. I have experience in web application development and multidisciplinary technology projects, working with technologies such as React, Express, Spring Boot, PostgreSQL, Astro, and TailwindCSS. I participated in web application development competitions and collaborated as a research intern on projects related to generative artificial intelligence and education, where I worked on configuring custom GPTs and Gemini Gems, as well as curating and processing documents through OCR, metadata structuring, and information indexing. I am seeking opportunities that allow me to gain professional experience while completing my studies.
+</p>
 
 <h3>
   <img src="./icons/mail.svg" style="height: 1.5em;" alt="Code Icon" />
@@ -76,7 +73,7 @@ pablorojas.job@gmail.com
   Backend
 </h3>
 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 </td>
 
@@ -102,8 +99,7 @@ pablorojas.job@gmail.com
   Databases
 </h3>
 
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 </td>
 
 </tr>
@@ -118,17 +114,6 @@ pablorojas.job@gmail.com
 </h3>
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Google_Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-</td>
-
-<td valign="top" width="50%">
-
-  <h3>
-    <img src="./icons/tech-stack/cloud.svg" style="height: 1.5em;" alt="Code Icon" />
-    Cloud
-  </h3>
-
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 </td>
 

@@ -49,6 +49,14 @@ My main goal at the moment is to obtain the [AWS Certified Solutions Architect â
 
 pablorojas.job@gmail.com
 
+
+<h3>
+  <img src="./icons/file.svg" style="height: 1.5em;" alt="Code Icon" />
+  CV
+</h3>
+
+Check my [Curriculum Vitae](https://pablo-rojas-dev.github.io/docs/cv-pablo-rojas-en.pdf)
+
 <br>
 
 <h2>

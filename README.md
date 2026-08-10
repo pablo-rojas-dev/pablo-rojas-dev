@@ -55,7 +55,8 @@ pablorojas.job@gmail.com
   CV
 </h3>
 
-Check my [Curriculum Vitae](https://pablo-rojas-dev.github.io/docs/cv-pablo-rojas-en.pdf)
+- [CV English](https://pablo-rojas-dev.github.io/docs/cv-pablo-rojas-en.pdf)
+- [CV Spanish](https://pablo-rojas-dev.github.io/docs/cv-pablo-rojas-es.pdf)
 
 <br>
 
